@@ -77,7 +77,7 @@ $ npm run start ou npm run dev
       <a href="http://github.com/murilohim">
         <img src="https://avatars.githubusercontent.com/u/84817937?s=400&u=889026ba86ed2fc84b6a1719fa7fbed7b6289128&v=4" width="100px;" alt="Foto de Murilo Terenciani no GitHub"/><br>
         <sub>
-          <b>tatialveso</b>
+          <b>Murilohim</b>
         </sub>
       </a>
     </td>
